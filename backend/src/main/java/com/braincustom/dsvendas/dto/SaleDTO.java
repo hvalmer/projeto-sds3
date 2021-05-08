@@ -6,7 +6,6 @@ import java.time.LocalDate;
 import com.braincustom.dsvendas.entities.Sale;
 
 public class SaleDTO implements Serializable {
-	
 	private static final long serialVersionUID = 1L;
 	
 	private Long id;
